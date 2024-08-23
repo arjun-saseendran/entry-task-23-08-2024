@@ -20,7 +20,7 @@ function Main() {
           return (
             <div key={index} className=" col-12 col-sm-6 col-md-4 col-lg-3">
               <div
-                className="card overfolw-hidden mb-4"
+                className="card overfolw-hidden mb-4 p-2"
                 style={{ width: "18rem", height: "30rem" }}
               >
                 <img
